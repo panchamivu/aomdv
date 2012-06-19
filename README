@@ -1,2 +1,2 @@
-This code shows the simulation of a wireless mobile ad-hoc network. It uses AOMDV as the routing protocol.
-The performance is measured and plotted.
+This is a ns2 code  written in Tcl that shows the simulation of a wireless mobile ad-hoc network. It uses AOMDV as the routing protocol.
+The performance is measured and plotted. Simulation of the same network using AODV protocol is also provided so that the performance of both can be compared.
